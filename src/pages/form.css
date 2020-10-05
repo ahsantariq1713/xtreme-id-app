@@ -1,0 +1,11 @@
+.vertical-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.align-center {
+  width: 100px;
+  align-items: center;
+}

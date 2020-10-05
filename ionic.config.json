@@ -1,0 +1,7 @@
+{
+  "name": "xtreme-id-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
